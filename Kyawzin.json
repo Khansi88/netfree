@@ -1,11 +1,11 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.8",
+"Version":"1.9",
 //link for server update
-"Url":"https://github.com/Khansi88/netfree/raw/main/KOKO.zip" ,
-"Changelog":"အားလုံးပဲကြိုဆိုပါတယ် အကောင်းဆုံးfreeဖိုင်အကောက်လျှောက် 5ဖိုင်နဲ့ vpsဖိုင်ထည့်ထားပါတယ် အားလုံးပဲအဆင်ပြေကြပါစေ
- အပ်ဒိပ်ရန်အင်တာနက်သို့မဟုတ်ဝိုင်ဖိုင်လိုမည် အားလုံးပဲအဆင်ပြေကြပါစေ 
- ကိုပအိုဝ်🤡🤡🤡🤡🤡🤡
+"Url":"https://github.com/Khansi88/netfree/raw/main/aac.zip" ,
+"Changelog":"အားလုံးပဲကြိုဆိုပါတယ် အကောင်းဆုံးfreeဖိုင်အကောက်လျှောက်ဖိုင်များနဲ့ vpsဖိုင်ထည့်ထားပါတယ် အပ်ဒိပ်လုပ်ရန်အင်တာနက်သို့မဟုတ်ဝိုင်ဖိုင်ရှိရမည် အပ်ဒိပ်ပီးပါက ပုံမှန်အတိုင်းချိတ်သုံးနိုင်သည် 
+ အားလုံးပဲအဆင်ပြေကြပါစေ
+ ကိုပအိုဝ်😁😁😁😁😁😋😋😋
 ",
 // don't mess with the bottom
 "latestVersion": "1.0.0",
